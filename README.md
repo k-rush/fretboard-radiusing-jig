@@ -1,6 +1,6 @@
 # Open Fretboard Radiusing Jig
 
-![Fretboard radius jig render](bosch-colt\Renders\freatboard-radiusing-jig-render.png)
+![Fretboard radius jig render](./bosch-colt/Renders/freatboard-radiusing-jig-render.png)
 
 Copyright KYLE RUSH 2022.
 
