@@ -34,7 +34,7 @@ Hardware for my prototype was obtained from McMaster-Carr.
 
 ### Track Rollers
 
-The router sled uses 1/2 diameter track rollers with a 1/4 shaft. Examples can be found here: https://www.mcmaster.com/catalog/128/1299/
+The router sled uses 1/2 diameter track rollers with a 1/4 shaft. This is what I used: https://www.mcmaster.com/3643K81/
 
 It's improtant that the roller diameter is 1/2". The shaft diameter is not important, but the design may need to be altered to fit a different size shaft.
 
@@ -46,7 +46,7 @@ Washers and nuts should also be purchased for the track rollers
 
 The screws which attach to the router base are M4. I used 6mm M4 thumb screws.
 
-https://www.mcmaster.com/catalog/128/3402
+https://www.mcmaster.com/92957A180/
 
 # Usage
 
